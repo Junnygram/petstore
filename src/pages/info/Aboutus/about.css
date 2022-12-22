@@ -1,0 +1,16 @@
+.abt{
+    height: 120rem;
+}
+.about{
+    display: grid;
+}
+.aboutcontainer{
+    background-color: blue;
+    display: grid;
+    height: 18rem;
+}
+.aboutimage{
+    width: 90%;
+    height: 100%;
+    object-fit: cover; 
+}

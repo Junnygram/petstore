@@ -1,0 +1,38 @@
+ /* *{
+min-height: 350px;
+  margin: 24px auto;
+  position: relative; 
+
+  */
+
+.dog{
+    margin-bottom: 24px;
+    position: relative;
+    
+}
+
+.dogimg{
+    margin-top: 30px;
+    position: flex;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+   
+.link{
+    border-left: 24px;
+    border-bottom: 1px solid black;
+    padding-left: 24px;
+    padding-bottom: 24px;
+    font-weight: 600;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+/* .div{
+        display: grid;
+        border-top: 85px;
+    } */

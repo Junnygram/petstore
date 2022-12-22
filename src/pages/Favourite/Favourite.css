@@ -1,0 +1,75 @@
+
+.container{
+    background: #F1F1F1;
+}
+h5{
+    font-weight: 400;
+    padding-left: 25px;
+    padding-top: 25px;
+}
+header{
+    width: 141px;
+    padding-left: 80px;
+    padding-top: 24px;
+    font-weight: 500;
+    font-size: 30.5408px;
+    border-bottom: 10px 1px solid black;
+
+} 
+.fav{
+    width: 70%;
+    margin: 0 auto;
+    height: auto;
+    padding-right: 24px;
+    margin-top: 24px;
+    border-left: 50px;
+    padding-right: 50px;
+    background: #F1F1F1;
+    border-radius: 10.122px;
+    padding-bottom: 35px;
+}
+.border1{
+    
+    margin-top: 24px;
+    width: 100%;
+    height: 24px;
+    padding-left: 34px;
+    top: 119px;
+    border-bottom: 1.05313px solid #AAA8A8;
+}
+.petcard{
+    margin: 0 auto;
+
+    padding-top: 24px;
+    padding-left: 30px;
+    margin-left: 30px;
+    margin-top: 24px;
+    background: #D9D9D9;
+    box-shadow: 4.44076px 4.44076px 3.55261px rgba(0, 0, 0, 0.25);
+    border-radius: 8.88152px;
+    display: grid;
+
+    grid-template-columns: repeat(4, 1fr) ;
+    gap: 20px;   
+}
+.deletebtn{
+    width: 108.15px;
+    height: 34px;
+    color: white;
+    border: none;
+    border-bottom: 24px;
+    background: #04709A;
+    border-radius: 10.5313px;
+} 
+
+.button{
+    border-top: 1.05313px solid #AAA8A8;;
+    padding-bottom: 24px;
+    padding-top: 50px;
+    margin-top: 34px;
+    margin-bottom: 24px;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    
+} 

@@ -1,0 +1,34 @@
+.Home {
+    position: relative;
+    height: 16px;
+    margin: 30px 80px;
+    font-weight: 500;
+    font-size: 13px;
+}
+
+.containingdiv{
+    display: grid;
+    justify-content: center;
+    background-color :#FAF7F7;
+    padding-bottom: 5rem;
+    border-top: 60px;
+    width: 90%;
+    margin-left: 5rem;
+    
+}
+
+.returnbtn{
+    width: 130px;
+    justify-self: center;
+    color: white;
+    height: 38px;
+    background: #012F4F;
+    box-shadow: 2.70169px 6.75422px 5.40337px rgba(0, 0, 0, 0.25);
+    border-radius: 54.0337px;
+    border: none;
+}
+.returnbtn:hover{
+    background: none;
+    color: #1f74af;
+    transform: scale(1.2);
+}

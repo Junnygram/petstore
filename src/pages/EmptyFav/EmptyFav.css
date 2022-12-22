@@ -1,0 +1,71 @@
+.Home {
+    position: relative;
+    height: 16px;
+    margin: 30px 80px;
+    font-weight: 500;
+    font-size: 13px;
+}
+
+.containingwish{
+    background-color :#F1F1F1;
+    padding-bottom: 5rem;
+    border-top: 60px;
+    width: 90%;
+    margin-left: 5rem;
+    padding-top: 10px;
+    
+}
+.wishlist{
+    padding-top: 10px;
+    padding-left: 15px;
+    border-bottom: 1px solid #AAA8A8;;
+}
+
+
+.wish{
+    display: grid;
+    justify-content: center;
+    background-color :#F1F1F1;
+    border-top: 60px;
+    width: 90%;
+    margin-left: 5rem;
+    padding-top: 10rem;
+   
+
+}
+.oops{
+    font-weight: 400;
+    font-size: 40px;
+}
+
+.shop{
+    width: 130px;
+    justify-self: center;
+    color: white;
+    height: 38px;
+    background: #04709A;
+    box-shadow: 2.70169px 6.75422px 5.40337px rgba(0, 0, 0, 0.25);
+    border-radius: 54.0337px;
+    border: none;
+}
+
+.pagination{
+    position: relative;
+    bottom: 10rem;
+    right: 50%;
+    transform: translateX(50%);
+}
+
+.span{
+    background: #Ffffff;
+    border: 1px solid rgba(0, 0, 0, 0.12);
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.active{
+    background-color: #04709a;
+    color: white;
+}
+ 

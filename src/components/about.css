@@ -1,0 +1,33 @@
+.mainheader{
+    /* height: 10rem; */
+    position: relative;
+}
+.info{
+    display: flex;
+    column-gap: 30px;
+    justify-content: center;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border: 0.5px solid #f4f4f4;
+}
+.infobtn{
+    color: black;
+    background-color: white;
+    padding: 7px 5px;
+    width: 6rem;
+    margin-bottom: 10px;
+    border: none;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-weight: 500;
+    font-size: 13px;
+    height: 30px;
+}
+.infobtn:hover{
+    background-color: #128CED;
+    color: white;
+}
+
+.infobtn::after{
+    background-color: #128CED  !important;
+    color: white !important;
+}
